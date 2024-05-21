@@ -7,5 +7,5 @@ Meu nome é Kathleen Bérgamo
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
-![](https://media1.tenor.com/m/7Ypq9_9najcAAAAd/thumbs-up-double-thumbs-up.gif)
+![]()
  
